@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NitinRawat813/LeetCode_/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/NitinRawat813/LeetCode_/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
