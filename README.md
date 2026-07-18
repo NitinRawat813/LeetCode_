@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/NitinRawat813/LeetCode_/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -79,5 +81,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
