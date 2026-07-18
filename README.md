@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/NitinRawat813/LeetCode_/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NitinRawat813/LeetCode_/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinRawat813/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
