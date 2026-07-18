@@ -20,12 +20,14 @@
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,16 @@
 |  |
 | ------- |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
