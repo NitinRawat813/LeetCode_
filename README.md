@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
@@ -66,6 +67,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/NitinRawat813/LeetCode_/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Two Pointers
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
