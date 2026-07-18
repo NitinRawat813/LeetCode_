@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@
 | ------- |
 | [0015-3sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
