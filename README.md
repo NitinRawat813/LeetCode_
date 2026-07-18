@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NitinRawat813/LeetCode_/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
