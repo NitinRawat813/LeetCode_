@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NitinRawat813/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
