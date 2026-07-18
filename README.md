@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
@@ -78,6 +80,7 @@
 | [0015-3sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NitinRawat813/LeetCode_/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NitinRawat813/LeetCode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
 |  |
