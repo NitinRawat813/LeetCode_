@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/NitinRawat813/LeetCode_/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NitinRawat813/LeetCode_/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Trie
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/NitinRawat813/LeetCode_/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
