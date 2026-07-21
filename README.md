@@ -57,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/NitinRawat813/LeetCode_/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NitinRawat813/LeetCode_/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/NitinRawat813/LeetCode_/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
