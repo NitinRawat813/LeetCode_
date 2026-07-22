@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinRawat813/LeetCode_/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/NitinRawat813/LeetCode_/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NitinRawat813/LeetCode_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NitinRawat813/LeetCode_/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/NitinRawat813/LeetCode_/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/NitinRawat813/LeetCode_/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
