@@ -24,6 +24,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NitinRawat813/LeetCode_/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/NitinRawat813/LeetCode_/tree/master/0496-next-greater-element-i) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/NitinRawat813/LeetCode_/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NitinRawat813/LeetCode_/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -76,6 +77,7 @@
 | [0029-divide-two-integers](https://github.com/NitinRawat813/LeetCode_/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NitinRawat813/LeetCode_/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NitinRawat813/LeetCode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/NitinRawat813/LeetCode_/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Two Pointers
@@ -89,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NitinRawat813/LeetCode_/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NitinRawat813/LeetCode_/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NitinRawat813/LeetCode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/NitinRawat813/LeetCode_/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
