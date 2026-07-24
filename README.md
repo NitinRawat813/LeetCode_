@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/NitinRawat813/LeetCode_/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/NitinRawat813/LeetCode_/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/NitinRawat813/LeetCode_/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/NitinRawat813/LeetCode_/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NitinRawat813/LeetCode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NitinRawat813/LeetCode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NitinRawat813/LeetCode_/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/NitinRawat813/LeetCode_/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
